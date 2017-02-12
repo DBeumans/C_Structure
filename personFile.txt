@@ -1,0 +1,5 @@
+Name: ed
+Country: qwe
+City: adam
+Age: 22
+Motto: 123

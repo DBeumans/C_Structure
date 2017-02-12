@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1484210525 source:c:\users\jonathan\desktop\bewijzenmap\periode2\r&d\structs\main.c
+	<stdio.h>
+	<string.h>
+
+1485956231 source:c:\users\danilo\desktop\bewijzenmap\gd2a\periode1\sct\c\structs\main.c
+	<stdio.h>
+	<string.h>
+
